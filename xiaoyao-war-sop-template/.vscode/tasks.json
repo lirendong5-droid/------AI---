@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "📜 打开军令状",
+      "type": "shell",
+      "command": "code docs/00-军令状.md",
+      "problemMatcher": []
+    }
+  ]
+}

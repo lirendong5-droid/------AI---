@@ -1,0 +1,13 @@
+{
+  "project_name": "",
+  "owner": "逍遥渔",
+  "roles": {
+    "dao": "皇上",
+    "fa": ["军师(ChatGPT)", "统帅(Codex Agent)"],
+    "shu": ["大将(Codex CLI)", "小兵(Copilot)"],
+    "field": "VS Code"
+  },
+  "goal": "",
+  "not_do": [],
+  "success_criteria": ""
+}
